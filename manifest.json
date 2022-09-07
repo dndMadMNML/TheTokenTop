@@ -1,1 +1,12 @@
-To1
+{
+  "name": "TheTokenTop",
+  "title": "TheTokenTop",
+  "description": "5648 webp tokens",
+  "author": "MadMNML",
+  "version": "1.0",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "9",
+  "url": "https://github.com/dndMadMNML/TheTokenTop",
+  "manifest": "https://raw.githubusercontent.com/datdamnzotz/icons/master/module.json",
+  "download": "https://github.com/datdamnzotz/icons/releases/download/0.0.18/0.0.18.zip"
+}
